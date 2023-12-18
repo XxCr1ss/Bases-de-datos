@@ -1,0 +1,85 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/gamer 2022/Desktop/Art/princ.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": true
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "argv_emulation",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/gamer 2022/Desktop/Art/CU.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/gamer 2022/Desktop/Art/mibase.db;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/gamer 2022/Desktop/Art/princ.py;."
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/gamer 2022/Desktop/Art/Usuario;Usuario/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/gamer 2022/Desktop/Art/Trabajador;Trabajador/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/gamer 2022/Desktop/Art/multimedia;multimedia/"
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/gamer 2022/Desktop/Art/Im\u00e1genes;Im\u00e1genes/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
